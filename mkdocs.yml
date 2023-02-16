@@ -1,0 +1,11 @@
+site_name: napari-ultrasound-viewer
+site_description: This napari plugin opens h5 and dicom images.
+site_author: Leopold Franz
+
+theme: readthedocs
+
+
+repo_url: https://github.com/leopold-franz/napari-ultrasound-viewer
+
+pages:
+- Home: index.md
